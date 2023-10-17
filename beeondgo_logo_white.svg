@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="300"
@@ -14,18 +13,9 @@
    version="1.1"
    id="svg3124"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="beeondgo_logo.svg">
+   sodipodi:docname="beeondgo_logo_white.svg">
   <defs
      id="defs3118">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4746"
-       id="linearGradient7109"
-       gradientUnits="userSpaceOnUse"
-       x1="133.30072"
-       y1="260.16226"
-       x2="181.51212"
-       y2="260.16226" />
     <inkscape:path-effect
        effect="simplify"
        id="path-effect5248"
@@ -37,8 +27,27 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false" />
-
   </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="141.94136"
+     inkscape:cy="113.96369"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1431"
+     inkscape:window-height="1020"
+     inkscape:window-x="160"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata3121">
     <rdf:RDF>
@@ -47,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,11 +66,11 @@
      id="layer1">
     <g
        id="g5445"
-       style="stroke:url(#linearGradient7109);stroke-width:0.563558;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ffffff;stroke-width:0.563558;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.19992048,2.4797578,-2.626114,0.18877867,1816.6476,139.18807)">
       <g
          id="g6749"
-         style="stroke:url(#linearGradient3719);stroke-width:0.563558;stroke-miterlimit:4;stroke-dasharray:none"
+         style="stroke:#ffffff;stroke-width:0.563558;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          transform="translate(156.41928,669.06898)">
         <path
            style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.563558;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
